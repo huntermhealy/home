@@ -48,17 +48,17 @@ nav.pinned {
 }
 
 .circle {
-    /*position: absolute;
+    position: absolute;
     top: 30%;
-    left: 50%; */
-    background-image: url("jessica.jpg");
-    /*background-repeat: no-repeat;
+    left: 50%;
+    background-image: url(http://oceanup.com/wp-content/uploads/2016/03/Matt-Healy-Responds-To-Misogynistic-Quote-1.jpeg);
+    background-repeat: no-repeat;
     background-position: 50%;
     background-size: contain;
     border-radius: 50%;
     width: 200px;
     height: 200px;
-    transform: translate(-50%, -50%);*/
+    transform: translate(-50%, -50%);
 }
 
 .links {
